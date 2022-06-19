@@ -1,0 +1,26 @@
+# ninja log v5
+319	4067	1655654603962634087	CMakeFiles/makerdock.dir/src/main.cpp.o	727584f34cb99e90
+320	3587	1655654603482630326	CMakeFiles/makerdock.dir/src/MakerDockWinItem.cpp.o	c5584d6a9bcc00d3
+39	1811	1655319244989852891	CMakeFiles/makerdock.dir/src/makerdockitem.cpp.o	5f18024c780bd207
+319	3724	1655654603622631423	CMakeFiles/makerdock.dir/makerdock_autogen/mocs_compilation.cpp.o	9ab740e4d0dd7b65
+4067	4563	1655654604455971284	makerdock	c9de30d69efc6e
+2	319	1655654600209271351	/home/hr/My/MakerDock/build/makerdock_autogen/mocs_compilation.cpp	c59eb8b3f3c90a05
+319	3705	1655654603602631266	CMakeFiles/makerdock.dir/src/MakerDockItem.cpp.o	7abe78f464c70e36
+2	319	1655654600209271351	/home/hr/My/MakerDock/build/makerdock_autogen/timestamp	c59eb8b3f3c90a05
+2	319	1655654600209271351	makerdock_autogen/mocs_compilation.cpp	c59eb8b3f3c90a05
+256	1781	1655319207302874770	CMakeFiles/makerdock.dir/src/makerdock.cpp.o	b42255ff6b195a81
+2	319	1655654600209271351	makerdock_autogen/timestamp	c59eb8b3f3c90a05
+320	3669	1655654603565964313	CMakeFiles/makerdock.dir/src/MakerDockRootItem.cpp.o	36dae9f978581fc
+319	3995	1655654603889300178	CMakeFiles/makerdock.dir/src/MakerDock.cpp.o	e0857515bf973132
+8	57	1655664846294892648	makerdock_autogen/timestamp	c59eb8b3f3c90a05
+8	57	1655664846294892648	makerdock_autogen/mocs_compilation.cpp	c59eb8b3f3c90a05
+8	57	1655664846294892648	/home/hr/My/MakerDock/build/makerdock_autogen/timestamp	c59eb8b3f3c90a05
+8	57	1655664846294892648	/home/hr/My/MakerDock/build/makerdock_autogen/mocs_compilation.cpp	c59eb8b3f3c90a05
+59	2565	1655664848804911790	CMakeFiles/makerdock.dir/src/MakerDock.cpp.o	e0857515bf973132
+2565	2979	1655664849218248275	makerdock	c9de30d69efc6e
+3	47	1655665249344576033	makerdock_autogen/timestamp	c59eb8b3f3c90a05
+3	47	1655665249344576033	makerdock_autogen/mocs_compilation.cpp	c59eb8b3f3c90a05
+3	47	1655665249344576033	/home/hr/My/MakerDock/build/makerdock_autogen/timestamp	c59eb8b3f3c90a05
+3	47	1655665249344576033	/home/hr/My/MakerDock/build/makerdock_autogen/mocs_compilation.cpp	c59eb8b3f3c90a05
+49	2809	1655665252104596402	CMakeFiles/makerdock.dir/src/MakerDockItem.cpp.o	7abe78f464c70e36
+2809	3571	1655665252864602011	makerdock	c9de30d69efc6e

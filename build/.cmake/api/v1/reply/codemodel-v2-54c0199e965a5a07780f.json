@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d719e0485455fee66dbc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MakerDock",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "KF5WindowSystem_QCH::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KF5WindowSystem_QCH-Debug-3c27da91cf933846b1f7.json",
+					"name" : "KF5WindowSystem_QCH",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "makerdock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-makerdock-Debug-4bda68b77b5214be8055.json",
+					"name" : "makerdock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "makerdock_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-makerdock_autogen-Debug-b11049576150fa401b3c.json",
+					"name" : "makerdock_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "makerdock_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-makerdock_autogen_timestamp_deps-Debug-066193ae66c1bf422529.json",
+					"name" : "makerdock_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hr/My/MakerDock/build",
+		"source" : "/home/hr/My/MakerDock"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

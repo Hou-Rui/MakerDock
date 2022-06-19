@@ -1,12 +1,10 @@
-#include "makerdock.h"
 #include <QApplication>
 
-int main(int argc, char *argv[])
-{
-    QApplication app(argc, argv);
-    MakerDock w;
-    w.show();
+#include "MakerDock.hpp"
+#include "MakerDockWinItem.hpp"
 
+int main(int argc, char *argv[]) {
+    QApplication app(argc, argv);
+    MakerDock dock;
     return app.exec();
 }
-

@@ -1,0 +1,10 @@
+/home/hr/My/MakerDock/build/CMakeFiles/KF5WindowSystem_QCH.dir
+/home/hr/My/MakerDock/build/CMakeFiles/makerdock.dir
+/home/hr/My/MakerDock/build/CMakeFiles/edit_cache.dir
+/home/hr/My/MakerDock/build/CMakeFiles/rebuild_cache.dir
+/home/hr/My/MakerDock/build/CMakeFiles/list_install_components.dir
+/home/hr/My/MakerDock/build/CMakeFiles/install.dir
+/home/hr/My/MakerDock/build/CMakeFiles/install/local.dir
+/home/hr/My/MakerDock/build/CMakeFiles/install/strip.dir
+/home/hr/My/MakerDock/build/CMakeFiles/makerdock_autogen_timestamp_deps.dir
+/home/hr/My/MakerDock/build/CMakeFiles/makerdock_autogen.dir

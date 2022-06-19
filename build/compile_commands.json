@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/hr/My/MakerDock/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/hr/My/MakerDock/build -I/home/hr/My/MakerDock -I/home/hr/My/MakerDock/build/makerdock_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/KF5/KWindowSystem -isystem /usr/include/KF5 -g -fPIC -o CMakeFiles/makerdock.dir/makerdock_autogen/mocs_compilation.cpp.o -c /home/hr/My/MakerDock/build/makerdock_autogen/mocs_compilation.cpp",
+  "file": "/home/hr/My/MakerDock/build/makerdock_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/hr/My/MakerDock/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/hr/My/MakerDock/build -I/home/hr/My/MakerDock -I/home/hr/My/MakerDock/build/makerdock_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/KF5/KWindowSystem -isystem /usr/include/KF5 -g -fPIC -o CMakeFiles/makerdock.dir/src/main.cpp.o -c /home/hr/My/MakerDock/src/main.cpp",
+  "file": "/home/hr/My/MakerDock/src/main.cpp"
+},
+{
+  "directory": "/home/hr/My/MakerDock/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/hr/My/MakerDock/build -I/home/hr/My/MakerDock -I/home/hr/My/MakerDock/build/makerdock_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/KF5/KWindowSystem -isystem /usr/include/KF5 -g -fPIC -o CMakeFiles/makerdock.dir/src/MakerDock.cpp.o -c /home/hr/My/MakerDock/src/MakerDock.cpp",
+  "file": "/home/hr/My/MakerDock/src/MakerDock.cpp"
+},
+{
+  "directory": "/home/hr/My/MakerDock/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/hr/My/MakerDock/build -I/home/hr/My/MakerDock -I/home/hr/My/MakerDock/build/makerdock_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/KF5/KWindowSystem -isystem /usr/include/KF5 -g -fPIC -o CMakeFiles/makerdock.dir/src/MakerDockItem.cpp.o -c /home/hr/My/MakerDock/src/MakerDockItem.cpp",
+  "file": "/home/hr/My/MakerDock/src/MakerDockItem.cpp"
+},
+{
+  "directory": "/home/hr/My/MakerDock/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/hr/My/MakerDock/build -I/home/hr/My/MakerDock -I/home/hr/My/MakerDock/build/makerdock_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/KF5/KWindowSystem -isystem /usr/include/KF5 -g -fPIC -o CMakeFiles/makerdock.dir/src/MakerDockWinItem.cpp.o -c /home/hr/My/MakerDock/src/MakerDockWinItem.cpp",
+  "file": "/home/hr/My/MakerDock/src/MakerDockWinItem.cpp"
+},
+{
+  "directory": "/home/hr/My/MakerDock/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/hr/My/MakerDock/build -I/home/hr/My/MakerDock -I/home/hr/My/MakerDock/build/makerdock_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/KF5/KWindowSystem -isystem /usr/include/KF5 -g -fPIC -o CMakeFiles/makerdock.dir/src/MakerDockRootItem.cpp.o -c /home/hr/My/MakerDock/src/MakerDockRootItem.cpp",
+  "file": "/home/hr/My/MakerDock/src/MakerDockRootItem.cpp"
+}
+]
